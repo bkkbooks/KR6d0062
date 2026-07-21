@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0062_000-X.yaml, hash: 'sha256:80dc24f6b692e1c34558db740d9215066e51ec05158dd2c1f586177e0af791af'}
+  - {seq: 0, filename: KR6d0062_000-X.yaml, hash: 'sha256:ee265c7b4915c92f671f07f626e73eae3f5835c91ad4f857938511918c6217ac'}
   - {seq: 1, filename: KR6d0062_001-X.yaml, hash: 'sha256:bf19facf06228cb7a9e0aee51502c6a9c56e6e051209ee4316a3dc100d4e3940'}
   - {seq: 2, filename: KR6d0062_002-X.yaml, hash: 'sha256:80c95e5c3cf6ab4de4c3511729268dd04604db488c27085493d8737063104059'}
   - {seq: 3, filename: KR6d0062_003-X.yaml, hash: 'sha256:8b4dc9b2e690434e70501d1aa46eed53f9768503761448be19f6db8b54a36a74'}
@@ -41,7 +41,7 @@ assets:
   - {seq: 19, filename: KR6d0062_019-X.yaml, hash: 'sha256:7588c2650d4eafde6298cfe889d744cd732b3a5b41094eaa93b354d08ad87ab7'}
   - {seq: 20, filename: KR6d0062_020-X.yaml, hash: 'sha256:e5d2f8847303dd890b8304a6d4cade1a463decd995ff6157bcb5124fc9ca6c08'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0062_000-X.markers.yaml, hash: 'sha256:b473f15b969a561dcc0b315d5d7358292c660a55dd97aee551d9d6677219c432'}
+  - {seq: 0, role: markers, filename: assets/KR6d0062_000-X.markers.yaml, hash: 'sha256:b1781f2cc51aafefb3ff76c49ae5595e302a1deea2dde8e7a78a5ed07cf7637d'}
   - {seq: 1, role: markers, filename: assets/KR6d0062_001-X.markers.yaml, hash: 'sha256:3fff8ebf118e4e2cdde196ed7ada874a98631741b6cb4f46063145073f705e89'}
   - {seq: 2, role: markers, filename: assets/KR6d0062_002-X.markers.yaml, hash: 'sha256:893073c3f733068a58c050edc60bf0cb8252fa0ca3f430f5b8b8ebe7358e753d'}
   - {seq: 3, role: markers, filename: assets/KR6d0062_003-X.markers.yaml, hash: 'sha256:83db5d8e99b6404d36984c38de82bf55b6c056a5bf87fb5dc57b4eb48ba60ec8'}
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0062_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 585-A
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0062_X_000-mulu-2
     span:
-    - front
+    - body
     - 95
     - 95
   label: 法華三大部讀教記目錄
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0062_X_000-mulu-3
     span:
-    - front
+    - body
     - 712
     - 712
   label: 玅玄(一)
@@ -97,7 +97,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0062_X_000-mulu-4
     span:
-    - front
+    - body
     - 715
     - 715
   label: 時教圖
@@ -107,7 +107,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0062_X_000-mulu-5
     span:
-    - front
+    - body
     - 718
     - 718
   label: 時教說
@@ -117,7 +117,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0062_X_000-mulu-6
     span:
-    - front
+    - body
     - 866
     - 866
   label: 五章議
@@ -127,7 +127,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0062_X_000-mulu-7
     span:
-    - front
+    - body
     - 1270
     - 1270
   label: 經體論
@@ -2013,4 +2013,4 @@ table_of_contents:
   label: 塵沙
   type: mulu
   level: 1
-hash: sha256:7b668b93d3354111b53cabe6db9dc8d0d684b596b8db4c5e8f6881c7ec6b678b
+hash: sha256:52a4ad7b5780c2afacb2b2871900ffe416be89cc68617a9de6cb8695ba46cb58
